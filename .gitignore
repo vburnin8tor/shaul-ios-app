@@ -39,7 +39,6 @@ playground.xctimeline
 Packages/
 Package.pins
 Package.resolved
-*.xcodeproj
 .swiftpm
 
 ## CocoaPods
